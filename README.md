@@ -67,10 +67,11 @@ and put them in the path of `train_dataset/dataset_name/`.
 ## Abstract
 >Hyperspectral (HS) video shoots continuous spectral information of objects, enabling trackers to identify materials effectively. It is expected to overcome the inherent limitations of RGB and multi-modal video tracking, such as finite spectral cues and cumbersome modality alignment. However, challenges in the current HS tracking field mainly include data anxiety, band gap, and huge volume. In this study, drawing inspiration from prompt learning in language models, we propose the Prompting for Hyperspectral Video Tracking (SSTtrack) framework, which learns prompts to adapt the pre-trained foundation model, tackling data anxiety and achieving stable performance and efficiency. First, a modality prompter (MOP) is proposed to capture rich spectral cues from HS images and bridge the band gap for improved model adaptation and knowledge enhancement. Additionally, a distillation prompter (DIP) is developed to integrate cross-modal features by refining adjacent modality information. Notably, SSTtrack follows the feature-level fusion fashion, addressing the challenge of processing large data volumes more effectively than traditional decision-level fusion methods. Extensive experiments validate the effectiveness of the proposed method and provide valuable insights for future research. The code will be available at [https://github.com/YZCU/SSTtrack](https://github.com/YZCU/PHTtack).
  -->
- 
+  <!--
 ## Overview
  ![image](/fig/df.jpg)
-
+ -->
+ 
 ## Results
 - Comparison with SOTA hyperspectral trackers
  ![image](/fig/5.jpg)
