@@ -76,6 +76,8 @@ and put them in the path of `train_dataset/dataset_name/`.
 - Multi-modal samples generated from the hyperspectral modality
  ![image](/fig/00.gif)
  ![image](/fig/11.gif)
+ ![image](/fig/22.gif)
+ ![image](/fig/33.gif)
 
 - Comparison with SOTA hyperspectral trackers
  ![image](/fig/5.jpg)
