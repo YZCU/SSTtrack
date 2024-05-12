@@ -1,7 +1,9 @@
 # SSTtrack
 
+The official implementation for "**SSTtrack**"
+ <!--
 The official implementation for "**SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions**"
-
+ -->
 - Authors: 
 [Yuzeng Chen](https://yzcu.github.io/), 
 [Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/),
