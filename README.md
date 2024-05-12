@@ -114,7 +114,9 @@ and put them in the path of `train_dataset/dataset_name/`.
 
 - Qualitative results
  ![image](/fig/12.jpg)
- 
+  ![image](/fig/v1.gif)
+   ![image](/fig/v2.gif)
+   ![image](/fig/v3.gif)
 :heart:For more comprehensive results, please review the upcoming manuscript:heart:
 
 ## Contact
