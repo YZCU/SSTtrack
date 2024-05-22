@@ -10,7 +10,7 @@ The official implementation for "**SSTtrack**"
 [Te Han](https://jianghe96.github.io/), and 
 [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
 
-- Wuhan University ([School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), Central South University ([School of Geosciences and Info-Physics](https://gip.csu.edu.cn/index.htm)
+- Wuhan University ([School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/)), Central South University ([School of Geosciences and Info-Physics])(https://gip.csu.edu.cn/index.htm)
 
 
 ##  Install
