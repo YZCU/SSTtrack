@@ -116,6 +116,7 @@ Email: yuzeng_chen@whu.edu.cn
  
 ## Citation
 If you find our work helpful in your research, kindly consider citing it. We appreciate your support.
+
 Chen, Yuzeng and Yuan, Qiangqiang and Tang, Yuqi and Xiao, Yi and He, Jiang and Han, Te and Liu, Zhenqi and Zhang, Liangpei, Ssttrack: A Unified Hyperspectral Video Tracking Framework Via Modeling Spectral-Spatial-Temporal Conditions. Available at SSRN: https://ssrn.com/abstract=4860918 or http://dx.doi.org/10.2139/ssrn.4860918
 
 ```
