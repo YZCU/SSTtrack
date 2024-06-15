@@ -1,4 +1,4 @@
-# SSTtrack ![image](/SSTtrack.pdf)
+# ![SSTtrack](/SSTtrack.pdf)
 
 The official implementation for ["**SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)
 
