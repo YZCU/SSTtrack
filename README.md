@@ -110,7 +110,7 @@ and put them in the path of `train_dataset/dataset_name/`.
   ![image](/fig/v1.gif)
    ![image](/fig/v2.gif)
    ![image](/fig/v3.gif)
-:heart:For more comprehensive results and experimental details, please review the upcoming [manuscript](/SSTtrack.pdf) and CODEs:heart:
+:heart:For more comprehensive results and experimental details, please review the upcoming [Manuscript](/SSTtrack.pdf) and Codes :heart:
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
