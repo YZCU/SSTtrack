@@ -16,7 +16,9 @@ The official implementation for ["**SSTtrack: A Unified Hyperspectral Video Trac
 
 ## Abstract
 > Hyperspectral video contains rich spectral, spatial, and temporal conditions that are crucial for capturing complex object variations and overcoming the inherent limitations (e.g., multi-device imaging, modality alignment, and finite spectral bands) of regular RGB and multi-modal video tracking. However, existing hyperspectral tracking methods frequently encounter issues including data anxiety, band gap, huge volume, and weakness of the temporal condition embedded in video sequences, which result in unsatisfactory tracking performance. To address these dilemmas, we propose a unified hyperspectral video tracking framework via modeling spectral-spatial-temporal conditions in an end-to-end fashion, dubbed SSTtrack. First, we design a multi-modal generation adapter (MGA) to explore the interpretability benefits of combining physical and machine models for learning the multi-modal generation and bridging the band gap. Then, we construct a spectral-spatial adapter (SSA) to dynamically transfer and interact with multiple modalities. Finally, we design a temporal condition adapter (TCA) for injecting the temporal condition to guide spectral and spatial feature representations to capture static and instantaneous object properties. SSTtrack follows the prompt learning paradigm with the addition of fewer trainable parameters (0.575M), resulting in superior performance in extensive comparisons. The code and model will be available at https://github.com/YZCU/SSTtrack.
-> 
+
+## Overview of SSTtrack
+ ![image](/fig/ssttrack.jpg)
 ##  Install
 ```
 git clone https://github.com/YZCU/SSTtrack.git
