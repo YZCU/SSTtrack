@@ -22,44 +22,13 @@ git clone https://github.com/YZCU/SSTtrack.git
 - For evaluation, please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precision performance evaluation.
 - Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
 - Evaluation of the SSTtrack tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
-- Relevant tracking results are provided in `\tracker_benchmark_v1.0\perfPlot.m`
+- Relevant tracking results are provided in `SSTtrack\tracking_results\hotc20test`. More evaluation results are provided in a `SSTtrack\tracking_results`.
 ## Results
 - Multi-modal samples generated from the hyperspectral modality
  ![image](/fig/00.gif)
  ![image](/fig/11.gif)
  ![image](/fig/22.gif)
  ![image](/fig/33.gif)
-
-- Comparison with SOTA hyperspectral trackers
- ![image](/fig/5.jpg)
-- *Hyperspectral videos: (a) Precision plot. (b) Success plot*
- ![image](/fig/6.jpg)
- 
-- Comparison with SOTA RGB trackers
- ![image](/fig/0.jpg)
- 
-- Comparison with hand-crafted feature-based trackers
-- *RGB videos: (a) Precision plot. (b) Success plot*
- ![image](/fig/1.jpg)
-- *False color videos: (a) Precision plot. (b) Success plot*
- ![image](/fig/2.jpg)
- 
-- Comparison with deep feature-based trackers
-- *RGB videos: (a) Precision plot. (b) Success plot*
- ![image](/fig/3.jpg)
-- *False color videos: (a) Precision plot. (b) Success plot*
- ![image](/fig/4.jpg)
- 
-- Attribute-based Evaluations
-- *Pre results for each attribute and overall*
- ![image](/fig/8.jpg)
-- *Suc results for each attribute and overall*
- ![image](/fig/9.jpg)
-
-- *Precision plots for each attribute and overall*
- ![image](/fig/10.jpg)
-- *Success plots for each attribute and overall*
- ![image](/fig/11.jpg)
 
 - Qualitative results
  ![image](/fig/12.jpg)
