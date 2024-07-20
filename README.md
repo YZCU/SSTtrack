@@ -13,13 +13,7 @@ git clone https://github.com/YZCU/SSTtrack.git
  - Please check the `requirement.txt` for details.
 
 ## Usage
-- Download the RGB/Hyperspectral training/test datasets:
-- [LaSOT](https://cis.temple.edu/lasot/),
-- [GOT-10K](http://got-10k.aitestunion.com/downloads),
-- [COCO](http://cocodataset.org),
-- [HOTC](https://www.hsitracking.com/hot2022/),
-- [TrackingNet](https://tracking-net.org/#downloads),
-
+- Download the RGB/Hyperspectral training/test datasets: [LaSOT](https://cis.temple.edu/lasot/), [GOT-10K](http://got-10k.aitestunion.com/downloads), [COCO](http://cocodataset.org), [HOTC](https://www.hsitracking.com/hot2022/), and [TrackingNet](https://tracking-net.org/#downloads).
 - Download the pretrained model: [pretrained model](https://pan.baidu.com/s/19pmFUAA0Bvj0s0GP_4xccA), (code:abcd) to `pretrained_models/`.
 - Please train the model based the foundation model, i.e., the pretrained model.
 - The generated model will be saved to the path of `output/train/ssttrack/ssttrack-ep150-full-256/`.
