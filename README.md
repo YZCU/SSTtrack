@@ -22,7 +22,7 @@ git clone https://github.com/YZCU/SSTtrack.git
 - For evaluation, please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precision performance evaluation.
 - Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
 - Evaluation of the SSTtrack tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
-
+- Relevant tracking results are provided in `\tracker_benchmark_v1.0\perfPlot.m`
 ## Results
 - Multi-modal samples generated from the hyperspectral modality
  ![image](/fig/00.gif)
