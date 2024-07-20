@@ -38,9 +38,8 @@ git clone https://github.com/YZCU/SSTtrack.git
 
 - Download the pretrained model: [pretrained model](https://pan.baidu.com/s/19pmFUAA0Bvj0s0GP_4xccA), (code:abcd) to `pretrained_models/`.
 ### Only Test
-- **Step I.**  We will release the trained [SSTtrack model](https://). Please put it to the path of `tools/snapshot/`.
-- **Step II.**  Switch directory to `tools/` and run the `tools/test.py`.
-- **Step III.**  Results will be saved in the path of `tools/results/`.
+- Please train the model and put the it to the path of `output/train/ssttrack/ssttrack-ep150-full-256/`.
+- Please test the model. The result will be saved in the path of `output/results/ssttrack/ssttrack-ep150-full-256/otb`.
 ### Evaluation
 - **Step I.**  Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precision performance evaluation.
 - **Step II.**  Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
