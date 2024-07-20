@@ -25,6 +25,7 @@ git clone https://github.com/YZCU/SSTtrack.git
 - Relevant tracking results are provided in `SSTtrack\tracking_results\hotc20test`. More evaluation results are provided in a `SSTtrack\tracking_results`.
 ## Results
 - Multi-modal samples generated from the hyperspectral modality
+
  ![image](/fig/00.gif)
  ![image](/fig/11.gif)
  ![image](/fig/22.gif)
@@ -32,9 +33,9 @@ git clone https://github.com/YZCU/SSTtrack.git
 
 - Qualitative results
  ![image](/fig/12.jpg)
-  ![image](/fig/v1.gif)
-   ![image](/fig/v2.gif)
-   ![image](/fig/v3.gif)
+ ![image](/fig/v1.gif)
+ ![image](/fig/v2.gif)
+ ![image](/fig/v3.gif)
 :heart:For more comprehensive results and experimental details, please review the upcoming [Manuscript](/SSTtrack.pdf) and Codes :heart:
 
 ## Contact
