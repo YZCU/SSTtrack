@@ -1,22 +1,20 @@
 # [SSTtrack](/SSTtrack.pdf)
 The official implementation for ["**SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)
-
 ##  Install
 ```
 git clone https://github.com/YZCU/SSTtrack.git
 ```
-
 ## Environment
  > * CUDA 11.8
  > * Python 3.9.18
  > * PyTorch 2.0.0
  > * Torchvision 0.15.0
  > * numpy 1.25.0 
- - **Note:** Please check the `requirement.txt` for details.
+ - Please check the `requirement.txt` for details.
 
 ## Usage
-### Quick Start
-- **Step I.**  Download the RGB/Hyperspectral training/test datasets:
+- Download the RGB/Hyperspectral training/test datasets:
+
 [LaSOT](https://cis.temple.edu/lasot/),
 [GOT-10K](http://got-10k.aitestunion.com/downloads),
 [COCO](http://cocodataset.org),
@@ -24,13 +22,12 @@ git clone https://github.com/YZCU/SSTtrack.git
 [TrackingNet](https://tracking-net.org/#downloads),
 
 - Download the pretrained model: [pretrained model](https://pan.baidu.com/s/19pmFUAA0Bvj0s0GP_4xccA), (code:abcd) to `pretrained_models/`.
-### Only Test
-- Please train the model and put the it to the path of `output/train/ssttrack/ssttrack-ep150-full-256/`.
+- Please train the model based the foundation model, i.e., the pretrained model.
+- The generated model will be saved to the path of `output/train/ssttrack/ssttrack-ep150-full-256/`.
 - Please test the model. The result will be saved in the path of `output/results/ssttrack/ssttrack-ep150-full-256/otb`.
-### Evaluation
-- **Step I.**  Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precision performance evaluation.
-- **Step II.**  Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
-- **Step III.**  Evaluation of the SSTtrack tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
+- For evaluation, please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precision performance evaluation.
+- Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
+- Evaluation of the SSTtrack tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
 
 ## Results
 - Multi-modal samples generated from the hyperspectral modality
