@@ -24,7 +24,7 @@ git clone https://github.com/YZCU/SSTtrack.git
 - Evaluation of the SSTtrack tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
 - Relevant tracking results are provided in `SSTtrack\tracking_results\hotc20test`. More evaluation results are provided in a `SSTtrack\tracking_results`.
 --------------------------------------------------------------------------------------
-:running:Keep updating:running:: More detailed tracking results for SENSE have been released.
+:running:Keep updating:running:: More detailed tracking results for SSTtrack have been released.
 - [hotc20test](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SSTtrack/tree/master/tracking_results))
 - [hotc23val_nir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SSTtrack/tree/master/tracking_results))
 - [hotc23val_rednir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SSTtrack/tree/master/tracking_results))
