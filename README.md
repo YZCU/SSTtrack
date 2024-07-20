@@ -26,16 +26,6 @@ git clone https://github.com/YZCU/SSTtrack.git
  > * Torchvision 0.15.0
  > * numpy 1.25.0 
  - **Note:** Please check the `requirement.txt` for details.
-## Download datasets
-- **RGB/Hyperspectral training/test datasets:**
- > * [GOT-10K](http://got-10k.aitestunion.com/downloads), 
- > [DET](http://image-net.org/challenges/LSVRC/2017/), 
- > [LaSOT](https://cis.temple.edu/lasot/),
- > [COCO](http://cocodataset.org),
- > [YOUTUBEBB](https://pan.baidu.com/s/1gQKmi7o7HCw954JriLXYvg) (code: v7s6),
- > [VID](http://image-net.org/challenges/LSVRC/2017/),
- > [HOTC](https://www.hsitracking.com/hot2022/)
-- **Note:** Please download these datasets and Codes.
 
 ## Usage
 ### Quick Start
