@@ -40,15 +40,13 @@ git clone https://github.com/YZCU/SSTtrack.git
 ## Usage
 ### Quick Start
 - **Step I.**  Download the RGB/Hyperspectral training/test datasets:
-[GOT-10K](http://got-10k.aitestunion.com/downloads), 
-[DET](http://image-net.org/challenges/LSVRC/2017/), 
 [LaSOT](https://cis.temple.edu/lasot/),
+[GOT-10K](http://got-10k.aitestunion.com/downloads),
 [COCO](http://cocodataset.org),
-[YOUTUBEBB](https://pan.baidu.com/s/1gQKmi7o7HCw954JriLXYvg) (code: v7s6),
-[VID](http://image-net.org/challenges/LSVRC/2017/),
 [HOTC](https://www.hsitracking.com/hot2022/),
-and put them in the path of `train_dataset/dataset_name/`.
-- Download the pretrained model: [pretrained model](https://pan.baidu.com/s/1ZW61I7tCe2KTaTwWzaxy0w) to `pretrained_models/`.
+[TrackingNet](https://tracking-net.org/#downloads),
+
+- Download the pretrained model: [pretrained model](https://pan.baidu.com/s/19pmFUAA0Bvj0s0GP_4xccA), (code:abcd) to `pretrained_models/`.
 ### Only Test
 - **Step I.**  We will release the trained [SSTtrack model](https://). Please put it to the path of `tools/snapshot/`.
 - **Step II.**  Switch directory to `tools/` and run the `tools/test.py`.
