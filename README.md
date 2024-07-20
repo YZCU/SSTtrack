@@ -48,16 +48,14 @@ git clone https://github.com/YZCU/SSTtrack.git
 [VID](http://image-net.org/challenges/LSVRC/2017/),
 [HOTC](https://www.hsitracking.com/hot2022/),
 and put them in the path of `train_dataset/dataset_name/`.
-- **Step II.**  Download the pretrained model: [pretrained model](https://pan.baidu.com/s/1ZW61I7tCe2KTaTwWzaxy0w) to `pretrained_models/`.
-- **Step III.**  Run the `setup.py` to set the path.
-- **Step IV.**  To train a model, switch directory to `tools/` and run `train.py` with the desired configs.
+- Download the pretrained model: [pretrained model](https://pan.baidu.com/s/1ZW61I7tCe2KTaTwWzaxy0w) to `pretrained_models/`.
 ### Only Test
 - **Step I.**  We will release the trained [SSTtrack model](https://). Please put it to the path of `tools/snapshot/`.
 - **Step II.**  Switch directory to `tools/` and run the `tools/test.py`.
 - **Step III.**  Results will be saved in the path of `tools/results/`.
 ### Evaluation
 - **Step I.**  Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precision performance evaluation.
-- **Step II.**  Download the file of the `tracking results` and put it into the path of `\tracker_benchmark_v1.0\results\results_OPE_SSTtrack`.
+- **Step II.**  Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
 - **Step III.**  Evaluation of the SSTtrack tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
 
 ## Results
