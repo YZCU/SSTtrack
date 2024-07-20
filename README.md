@@ -14,12 +14,11 @@ git clone https://github.com/YZCU/SSTtrack.git
 
 ## Usage
 - Download the RGB/Hyperspectral training/test datasets:
-
-[LaSOT](https://cis.temple.edu/lasot/),
-[GOT-10K](http://got-10k.aitestunion.com/downloads),
-[COCO](http://cocodataset.org),
-[HOTC](https://www.hsitracking.com/hot2022/),
-[TrackingNet](https://tracking-net.org/#downloads),
+- [LaSOT](https://cis.temple.edu/lasot/),
+- [GOT-10K](http://got-10k.aitestunion.com/downloads),
+- [COCO](http://cocodataset.org),
+- [HOTC](https://www.hsitracking.com/hot2022/),
+- [TrackingNet](https://tracking-net.org/#downloads),
 
 - Download the pretrained model: [pretrained model](https://pan.baidu.com/s/19pmFUAA0Bvj0s0GP_4xccA), (code:abcd) to `pretrained_models/`.
 - Please train the model based the foundation model, i.e., the pretrained model.
@@ -40,8 +39,6 @@ git clone https://github.com/YZCU/SSTtrack.git
  ![image](/fig/5.jpg)
 - *Hyperspectral videos: (a) Precision plot. (b) Success plot*
  ![image](/fig/6.jpg)
-- *Accuracy-speed comparisons. (a) Pre vs. FPS. (b) Suc vs. FPS*
- ![image](/fig/7.jpg)
  
 - Comparison with SOTA RGB trackers
  ![image](/fig/0.jpg)
