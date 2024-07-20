@@ -1,18 +1,5 @@
 # [SSTtrack](/SSTtrack.pdf)
-
 The official implementation for ["**SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions**"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)
-
-- Authors: 
-[Yuzeng Chen](https://yzcu.github.io/), 
-[Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/),
-[Yuqi Tang](https://faculty.csu.edu.cn/yqtang/zh_CN/zdylm/66781/list/index.htm),
-[Yi Xiao](https://xy-boy.github.io/),
-[Jiang He](https://jianghe96.github.io/),
-[Te Han](https://jianghe96.github.io/),
-[Zhenqi Liu](http://ai.swu.edu.cn/info/1067/2670.htm), and 
-[Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
-
-- Wuhan University ([School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing](https://liesmars.whu.edu.cn/index.htm)), Central South University ([School of Geosciences and Info-Physics](https://gip.csu.edu.cn/index.htm), Southwest University ([College of Artificial Intelligence](http://ai.swu.edu.cn/index.htm)).
 
 ##  Install
 ```
