@@ -67,7 +67,7 @@ git clone https://github.com/YZCU/SSTtrack.git
  ![image](/fig/v2.gif)
  ![image](/fig/v3.gif)
 
-:heart:For more comprehensive results and experimental details, please review the upcoming [Manuscript](/SSTtrack.pdf) and Codes :heart:
+:heart:  :heart:
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
