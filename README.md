@@ -1,4 +1,4 @@
-# [SSTtrack](/SSTtrack.pdf)
+# SSTtrack
 The official implementation for SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions
 
 
