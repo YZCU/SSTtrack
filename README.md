@@ -1,6 +1,5 @@
 # SSTtrack
-The official implementation for SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions
-
+The official implementation for [SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions](https://www.sciencedirect.com/science/article/pii/S1566253524004366)
 
 --------------------------------------------------------------------------------------
 :running:Keep updating:running:: More detailed tracking results for SSTtrack have been released.
