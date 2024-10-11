@@ -61,5 +61,17 @@ Email: yuzeng_chen@whu.edu.cn
 ## Citation
 If you find our work helpful in your research, kindly consider citing it. We appreciate your support.
 
-Chen, Yuzeng and Yuan, Qiangqiang and Tang, Yuqi and Xiao, Yi and He, Jiang and Han, Te and Liu, Zhenqi and Zhang, Liangpei, Ssttrack: A Unified Hyperspectral Video Tracking Framework Via Modeling Spectral-Spatial-Temporal Conditions. Available at SSRN: https://ssrn.com/abstract=4860918 or http://dx.doi.org/10.2139/ssrn.4860918
 
+@article{CHEN2025102658,
+title = {SSTtrack: A unified hyperspectral video tracking framework via modeling spectral-spatial-temporal conditions},
+journal = {Information Fusion},
+volume = {114},
+pages = {102658},
+year = {2025},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2024.102658},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253524004366},
+author = {Yuzeng Chen and Qiangqiang Yuan and Yuqi Tang and Yi Xiao and Jiang He and Te Han and Zhenqi Liu and Liangpei Zhang},
+keywords = {Hyperspectral video, Spectral awareness, Temporal awareness, Prompt learning, Multi-modal tracking},
+abstract = {Hyperspectral video contains rich spectral, spatial, and temporal conditions that are crucial for capturing complex object variations and overcoming the inherent limitations (e.g., multi-device imaging, modality alignment, and finite spectral bands) of regular RGB and multi-modal video tracking. However, existing hyperspectral tracking methods frequently encounter issues including data anxiety, band gap, huge volume, and weakness of the temporal condition embedded in video sequences, which result in unsatisfactory tracking capabilities. To tackle the dilemmas, we present a unified hyperspectral video tracking framework via modeling spectral-spatial-temporal conditions end-to-end, dubbed SSTtrack. First, we design the multi-modal generation adapter (MGA) to explore the interpretability benefits of combining physical and machine models for learning the multi-modal generation and bridging the band gap. To dynamically transfer and interact with multiple modalities, we then construct a novel spectral-spatial adapter (SSA). Finally, we design a temporal condition adapter (TCA) for injecting the temporal condition to guide spectral and spatial feature representations to capture static and instantaneous object properties. SSTtrack follows the prompt learning paradigm with the addition of few trainable parameters (0.575 M), resulting in superior performance in extensive comparisons. The code will be released at https://github.com/YZCU/SSTtrack.}
+}
