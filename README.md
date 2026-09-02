@@ -12,6 +12,7 @@ The official implementation for [SSTtrack: A Unified Hyperspectral Video Trackin
 - [hotc24val_vis](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SSTtrack/tree/master/tracking_results))
 - [mssot](https://www.sciencedirect.com/science/article/pii/S0924271623002551) ([results](https://github.com/YZCU/SSTtrack/tree/master/tracking_results))
 - [msvt](https://www.sciencedirect.com/science/article/pii/S0924271621002860) ([results](https://github.com/YZCU/SSTtrack/tree/master/tracking_results))
+- [must](https://ieeexplore.ieee.org/document/11091847) ([results](https://github.com/YZCU/SSTtrack/blob/master/tracking_results/SSTtrack_on_MUST.rar))
 --------------------------------------------------------------------------------------
 
 
